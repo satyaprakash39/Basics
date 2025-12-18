@@ -1,2 +1,2 @@
-# Basics
-Basic codes
+# Besics
+First Git code.
